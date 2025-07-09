@@ -51,7 +51,7 @@ Make the card responsive with percentage-based widths or media queries.
 <body>
   <div class="container">
     <div class="product-card">
-      <img src="head1.webp"  alt="Product" />
+      <img src="https://m.media-amazon.com/images/I/61HZLDc2ykL._AC_UY327_FMwebp_QL65_.jpg"  alt="Product" />
       <h2>Wireless Headphones</h2>
       <p>High-quality sound with long battery life. Lightweight and comfortable.</p>
       <span class="price">₹1,499</span>
