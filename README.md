@@ -39,7 +39,7 @@ Use a hover effect on the button (e.g., background color change).
 
 Make the card responsive with percentage-based widths or media queries.
 ## HTML Code:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,10 +76,10 @@ Make the card responsive with percentage-based widths or media queries.
   </div>
 </body>
 </html>
-
+```
 ## CSS Code:
 
-
+```
 *{
     box-sizing: border-box;
 }
@@ -149,7 +149,7 @@ body{
 .buy-btn:hover {
   background-color: #0f52ba;
 }
-
+```
 ## Output:
 ![Screenshot 2025-07-09 214041](https://github.com/user-attachments/assets/52a4d21a-992d-4a04-b9b2-c0f6d22f09e5)
 
